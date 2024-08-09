@@ -1,5 +1,8 @@
 # Neo Lab
 
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+
 Website for Neo Lab Laboratory (PAF - Web Technologies USS 2023-I)
 
 ## Localhost Variables
