@@ -18,7 +18,7 @@ return [
 Clone the project
 
 ```bash
-  git clone https://github.com/micode1502/NeoLab.git
+  git clone https://github.com/micode1502/NeoLab-System
 ```
 
 Go to the project directory
