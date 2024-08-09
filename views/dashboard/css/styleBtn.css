@@ -1,0 +1,57 @@
+.boxPass {
+    align-items: center;
+    display: flex;
+    width: 100%;
+  }
+  
+  /* .inputBoxUser {
+    border: #5fa383 1px solid;
+  } */
+
+  /* .inputTextPass {
+    width: 360px;  
+    padding: 10px 5px;  
+    width: 110%;
+    color: var(--color-dark);
+    border: #5fa383 1px solid;
+  } */
+  
+  
+  /* .inputTextPass:hover  {
+    color: var(--color-dark);
+  } */
+  
+  .backBtn {
+    position: relative;
+    transform: translate(-24px);
+    /* padding: 0.36em ; */
+    border-radius: 0px 8px 8px 0px;
+    /* border-left: 1px #5fa383 solid; */
+  }
+  
+  .backBtn:hover {
+    margin: auto 0;
+    /* background-color: var(--color-light); */
+  }
+
+  .iconPassBtn {
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    /* transform: translate(0px); */
+    cursor: pointer;
+    
+    user-select: none;
+    -webkit-user-drag: none;
+    -khtml-user-drag: none;
+    -moz-user-drag: none;
+    -o-user-drag: none;
+    fill: var(--color-dark);
+  }
+  
+  
+  
+  

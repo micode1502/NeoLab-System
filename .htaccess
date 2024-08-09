@@ -1,0 +1,8 @@
+# Register the access to the directories
+Options All -Indexes
+
+# Enable rewrite engine
+RewriteEngine On
+
+RewriteRule ^([a-z0-9]+)\/?([a-zA-Z0-9]*)\/?([a-z0-9]*)$ index.php?controller=$1&action=$2&id=$3 [QSA,L]
+
